@@ -1,0 +1,11 @@
+### Module positions - created on 09/02/20 13:18:24 ###
+### Printed by Pcbnew version kicad (5.1.6)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                   PosX       PosY       Rot  Side
+J1        Conn_02x20_Odd_Even  PinSocket_2x20_P1.27mm_Vertical_SMD  -135.3820   -85.8012  270.0000  bottom
+J2        Conn_02x20_Odd_Even  PinSocket_2x20_P1.27mm_Vertical_SMD   126.5936   116.7892  180.0000  top
+J3        Conn_02x20_Odd_Even  PinSocket_2x20_P1.27mm_Vertical_SMD   146.6596   116.7892  180.0000  top
+R         R_0402_1005Metric    R_0402_1005Metric                     135.1280  -107.7590    0.0000  top
+LED       LED_0603_1608Metric  LED_0603_1608Metric                   135.1280  -109.2830    0.0000  top
+## End
